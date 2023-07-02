@@ -1,5 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Welcome! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Welcome! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-
 <h1 align="center"> Thanks for visting my GitHub 👋</h1>
 
 <p align="center">
